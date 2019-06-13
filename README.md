@@ -15,7 +15,7 @@
      that should be used to perform computations in parallel.
 
 6. Please do a code review of the file
-   `utils.py` in this repository.
+   `S3.java` in this repository.
 
 7. Please describe the suitability of the file
    `site.cert` in this repository for use
