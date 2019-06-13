@@ -1,4 +1,4 @@
-# GÉANT Python assessment questions
+# GÉANT Java assessment questions
 
 ## Discussion
 
