@@ -4,7 +4,7 @@
 
 1. Describe how to release a java library using maven.
 2. Describe how to test a java library, and integrate testing into the release process.
-3. Discuss how to release a java application.
+3. Discuss how to release a java application.  What should be taken into account with respect to secure configuration parameters, differences between test, development and production environments.
 
 ## Written exercises
 
